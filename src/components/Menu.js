@@ -57,7 +57,7 @@ class Menu extends Component {
     <Col sm={4}>{items.nonVeg ?
     <Badge  variant="danger">
       <h6 style={{margin : 2}}>  Non Veg</h6>
-      </Badge> : <Badge  large variant="success">
+      </Badge> : <Badge variant="success">
           <h6 style={{margin : 2}}>Veg</h6>
         </Badge>}
       </Col>
