@@ -20,7 +20,7 @@ class CarouselComponent extends Component {
       <img
         className="d-block w-100"
         src={require("../assets/pizza.jpg")}
-        alt="Third slide"
+        alt="second slide"
       />
 
       <Carousel.Caption>
