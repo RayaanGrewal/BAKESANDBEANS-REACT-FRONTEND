@@ -9,7 +9,7 @@ class CarouselComponent extends Component {
     <Carousel.Item>
       <img
         className="d-block w-100"
-        src={require("../assets/burger.jpeg")}
+        src={require("../assets/burger.jpg")}
         alt="First slide"
       />
       <Carousel.Caption>
