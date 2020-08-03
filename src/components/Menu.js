@@ -29,7 +29,7 @@ class Menu extends Component {
     }
     else{
     return (
-      <div >
+      <div style={{backgroundColor : "#ffffff"}} >
       <NavbarComponent/>
 
       <Breadcrumb>
@@ -40,7 +40,7 @@ class Menu extends Component {
         Menu
         </Breadcrumb.Item>
       </Breadcrumb>
-      <Container>
+      <Container fluid={"sm"}>
 
       <div>
       <ul>
